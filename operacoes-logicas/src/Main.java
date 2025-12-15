@@ -40,6 +40,5 @@ public class Main {
 
         System.out.println("Recebe Auxilio " + recebeAuxilio);
 
-
     }
 }
